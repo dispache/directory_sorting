@@ -1,0 +1,11 @@
+{
+  "name": "directorysort",
+  "version": "1.0.0",
+  "description": "Sort for your directory",
+  "main": "directorySort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evgeniy Digtyarenko",
+  "license": "ISC"
+}
