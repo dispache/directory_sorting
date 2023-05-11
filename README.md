@@ -1,2 +1,2 @@
-Sort for your directory.
-Includes sort for scripts(.js), documents(.pdf, .docx), text files(.txt).
+Sorting for your directory.
+Includes sorting for scripts(.js), documents(.pdf, .docx), text files(.txt).
